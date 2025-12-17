@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/akash-mehta47/Coding-Problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/akash-mehta47/Coding-Problems/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/akash-mehta47/Coding-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
