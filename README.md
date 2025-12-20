@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/akash-mehta47/Coding-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/akash-mehta47/Coding-Problems/tree/master/0066-plus-one) |
+| [0944-delete-columns-to-make-sorted](https://github.com/akash-mehta47/Coding-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 ## Math
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akash-mehta47/Coding-Problems/tree/master/0020-valid-parentheses) |
+| [0944-delete-columns-to-make-sorted](https://github.com/akash-mehta47/Coding-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 ## Stack
 |  |
 | ------- |
