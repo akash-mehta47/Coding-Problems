@@ -5,9 +5,10 @@ public:
         int j=0;
         for(int i=1;i<nums.size();i++){
             if(nums[j]!=nums[i]){
-                nums[++j]=nums[i];
+                j=j+1;
+                nums[j]=nums[i];
             }
         }
-        return ++j;
+        return j+1;
     }
 };
