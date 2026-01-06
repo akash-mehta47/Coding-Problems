@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/akash-mehta47/Coding-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/akash-mehta47/Coding-Problems/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/akash-mehta47/Coding-Problems/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/akash-mehta47/Coding-Problems/tree/master/0704-binary-search) |
 | [0944-delete-columns-to-make-sorted](https://github.com/akash-mehta47/Coding-Problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
