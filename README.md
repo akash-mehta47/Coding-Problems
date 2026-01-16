@@ -96,8 +96,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/akash-mehta47/Coding-Problems/tree/master/0258-add-digits) |
-## Enumeration
-|  |
-| ------- |
-| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/akash-mehta47/Coding-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 <!---LeetCode Topics End-->
