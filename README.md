@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akash-mehta47/Coding-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2295-replace-elements-in-an-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/2295-replace-elements-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akash-mehta47/Coding-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/akash-mehta47/Coding-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/akash-mehta47/Coding-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/akash-mehta47/Coding-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/0268-missing-number) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/akash-mehta47/Coding-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/akash-mehta47/Coding-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Prefix Sum
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/akash-mehta47/Coding-Problems/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
