@@ -1,17 +1,16 @@
 class NumArray {
 public:
-    unordered_map<int,long long> preSum;
+    vector<long long> preSum;
     
     NumArray(vector<int>& nums) {
-        long long sum=0;
+        preSum.resize(nums.size()+1,0);
         for(int i=0;i<nums.size();i++){
-            sum+=nums[i];
-            preSum[i]=sum;
+            preSum[i+1]=preSum[i]+nums[i];
         }
     }
     
     int sumRange(int left, int right) {
-        return preSum[right]-preSum[left-1];
+        return preSum[right+1]-preSum[left];
     }
 };
 
