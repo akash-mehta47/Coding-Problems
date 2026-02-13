@@ -6,17 +6,17 @@ public:
         for(int i=0;i<nums.size();i++){
             index.push_back({nums[i],i});
         }
-        int i=0;
-        int j=nums.size()-1;
+        int left=0;
+        int right=nums.size()-1;
         sort(index.begin(),index.end());
-        while(i<j){
-            int sum = index[i].first + index[j].first;
+        while(left<right){
+            int sum=index[left].first+index[right].first;
             if(sum<target){
-                i++;
+                left++;
             }else if(sum>target){
-                j--;
+                right--;
             }else{
-                return {index[i].second,index[j].second};
+                return {index[left].second,index[right].second};
             }
         }
         return {};
