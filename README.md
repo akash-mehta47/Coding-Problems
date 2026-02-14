@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/akash-mehta47/Coding-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/akash-mehta47/Coding-Problems/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/akash-mehta47/Coding-Problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/0268-missing-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/akash-mehta47/Coding-Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akash-mehta47/Coding-Problems/tree/master/0283-move-zeroes) |
 ## Greedy
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/akash-mehta47/Coding-Problems/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/0268-missing-number) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/akash-mehta47/Coding-Problems/tree/master/3074-apple-redistribution-into-boxes) |
