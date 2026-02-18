@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/akash-mehta47/Coding-Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/akash-mehta47/Coding-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/akash-mehta47/Coding-Problems/tree/master/0724-find-pivot-index) |
+| [0922-sort-array-by-parity-ii](https://github.com/akash-mehta47/Coding-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/akash-mehta47/Coding-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akash-mehta47/Coding-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/akash-mehta47/Coding-Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akash-mehta47/Coding-Problems/tree/master/0283-move-zeroes) |
+| [0922-sort-array-by-parity-ii](https://github.com/akash-mehta47/Coding-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akash-mehta47/Coding-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akash-mehta47/Coding-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/akash-mehta47/Coding-Problems/tree/master/0645-set-mismatch) |
+| [0922-sort-array-by-parity-ii](https://github.com/akash-mehta47/Coding-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/akash-mehta47/Coding-Problems/tree/master/3074-apple-redistribution-into-boxes) |
