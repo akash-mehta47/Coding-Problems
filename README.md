@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/akash-mehta47/Coding-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/0268-missing-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/akash-mehta47/Coding-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/akash-mehta47/Coding-Problems/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2485-find-the-pivot-integer](https://github.com/akash-mehta47/Coding-Problems/tree/master/2485-find-the-pivot-integer) |
 ## String
 |  |
