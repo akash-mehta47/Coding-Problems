@@ -4,20 +4,19 @@ public:
         if(nums.empty()) return 0;
         sort(nums.begin(),nums.end());
         int maxi=1;
-        int count=1;
-        for(int i=0;i<nums.size()-1;i++){
-            if(nums[i]==nums[i+1]){
-                continue;
+        int lastNum=INT_MIN;
+        int count=0;
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]-1==lastNum){
+                count++;
+                lastNum=nums[i];
             }
-            if(nums[i]+1==nums[i+1]){
-                count+=1;
-                
-            }else{
-                maxi=max(maxi,count);
+            else if(nums[i]!=lastNum){
                 count=1;
+                lastNum=nums[i];
             }
-            
+            maxi=max(maxi,count);
         }
-        return max(maxi,count);
+        return maxi;
     }
 };
