@@ -6,18 +6,13 @@ public:
             if(i&1){
                 if(s[i]=='0'){
                     count0++;
+                }else{
+                    count1++;
                 }
             }else{
                 if(s[i]=='1'){
                     count0++;
-                }
-            }
-            if(i&1){
-                if(s[i]=='1'){
-                    count1++;
-                }
-            }else{
-                if(s[i]=='0'){
+                }else{
                     count1++;
                 }
             }
