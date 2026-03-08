@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/akash-mehta47/Coding-Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/akash-mehta47/Coding-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/akash-mehta47/Coding-Problems/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/akash-mehta47/Coding-Problems/tree/master/0867-transpose-matrix) |
 | [0922-sort-array-by-parity-ii](https://github.com/akash-mehta47/Coding-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/akash-mehta47/Coding-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/akash-mehta47/Coding-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/akash-mehta47/Coding-Problems/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akash-mehta47/Coding-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Counting
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/akash-mehta47/Coding-Problems/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/akash-mehta47/Coding-Problems/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akash-mehta47/Coding-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/2295-replace-elements-in-an-array) |
