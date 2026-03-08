@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/akash-mehta47/Coding-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akash-mehta47/Coding-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/akash-mehta47/Coding-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akash-mehta47/Coding-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/2295-replace-elements-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/akash-mehta47/Coding-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/akash-mehta47/Coding-Problems/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akash-mehta47/Coding-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/akash-mehta47/Coding-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Counting
 |  |
 | ------- |
