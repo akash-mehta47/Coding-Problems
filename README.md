@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/akash-mehta47/Coding-Problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/akash-mehta47/Coding-Problems/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/akash-mehta47/Coding-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/akash-mehta47/Coding-Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/akash-mehta47/Coding-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/akash-mehta47/Coding-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/akash-mehta47/Coding-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/akash-mehta47/Coding-Problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/akash-mehta47/Coding-Problems/tree/master/0258-add-digits) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/akash-mehta47/Coding-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/akash-mehta47/Coding-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/akash-mehta47/Coding-Problems/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akash-mehta47/Coding-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
