@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akash-mehta47/Coding-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/akash-mehta47/Coding-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/1929-concatenation-of-array) |
+| [1980-find-unique-binary-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/1980-find-unique-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akash-mehta47/Coding-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/2295-replace-elements-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akash-mehta47/Coding-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akash-mehta47/Coding-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/akash-mehta47/Coding-Problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/1980-find-unique-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/akash-mehta47/Coding-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Stack
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/akash-mehta47/Coding-Problems/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1980-find-unique-binary-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/1980-find-unique-binary-string) |
 | [2295-replace-elements-in-an-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/2295-replace-elements-in-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/akash-mehta47/Coding-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Bit Manipulation
@@ -194,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/akash-mehta47/Coding-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
