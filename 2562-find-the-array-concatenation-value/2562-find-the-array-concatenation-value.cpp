@@ -2,11 +2,14 @@ class Solution {
 public:
     long long findTheArrayConcVal(vector<int>& nums) {
         long long ans=0;
-        int n=nums.size();
-        for(int i=0;i<n/2;i++){
-            ans+=stoi(to_string(nums[i])+to_string(nums[n-i-1]));
+        int a=0;
+        int b=nums.size()-1;
+        while(a<=b){
+            if(a==b) ans+=nums[a];
+            else ans+=stoll(to_string(nums[a])+to_string(nums[b]));
+            a++;
+            b--;
         }
-        if(n&1) ans+=nums[n/2];
         return ans;
     }
 };
