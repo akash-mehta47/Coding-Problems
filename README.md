@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/akash-mehta47/Coding-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/akash-mehta47/Coding-Problems/tree/master/0020-valid-parentheses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/akash-mehta47/Coding-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/akash-mehta47/Coding-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/akash-mehta47/Coding-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/akash-mehta47/Coding-Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/akash-mehta47/Coding-Problems/tree/master/0075-sort-colors) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/akash-mehta47/Coding-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/akash-mehta47/Coding-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akash-mehta47/Coding-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Union-Find
