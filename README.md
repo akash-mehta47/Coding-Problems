@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/akash-mehta47/Coding-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/2295-replace-elements-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akash-mehta47/Coding-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/akash-mehta47/Coding-Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2974-minimum-number-game](https://github.com/akash-mehta47/Coding-Problems/tree/master/2974-minimum-number-game) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/akash-mehta47/Coding-Problems/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2485-find-the-pivot-integer](https://github.com/akash-mehta47/Coding-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## String
 |  |
 | ------- |
