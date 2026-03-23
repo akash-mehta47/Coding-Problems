@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akash-mehta47/Coding-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/akash-mehta47/Coding-Problems/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/akash-mehta47/Coding-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akash-mehta47/Coding-Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/akash-mehta47/Coding-Problems/tree/master/0303-range-sum-query-immutable) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/akash-mehta47/Coding-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/akash-mehta47/Coding-Problems/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/akash-mehta47/Coding-Problems/tree/master/0645-set-mismatch) |
