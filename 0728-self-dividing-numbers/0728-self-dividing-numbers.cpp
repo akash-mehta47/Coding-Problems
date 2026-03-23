@@ -4,13 +4,13 @@ public:
         vector<int> ans;
         for(int i=left;i<=right;i++){
             int num=i;
-            int temp=num;
+            int temp1=num;
             bool flag=true;
-            while(temp>0){
-                int dig=temp%10;
-                temp/=10;
-                if(dig!=0){
-                    if(num%dig!=0){
+            while(temp1>0){
+                int temp2=temp1%10;
+                temp1/=10;
+                if(temp2!=0){
+                    if(num%temp2!=0){
                         flag=false;
                     }
                 }else{
@@ -22,5 +22,6 @@ public:
             }
         }
         return ans;
+
     }
 };
