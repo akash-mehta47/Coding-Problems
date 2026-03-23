@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/akash-mehta47/Coding-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/akash-mehta47/Coding-Problems/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2485-find-the-pivot-integer](https://github.com/akash-mehta47/Coding-Problems/tree/master/2485-find-the-pivot-integer) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
 |  |
 | ------- |
