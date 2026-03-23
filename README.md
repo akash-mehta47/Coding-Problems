@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akash-mehta47/Coding-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2562-find-the-array-concatenation-value](https://github.com/akash-mehta47/Coding-Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2974-minimum-number-game](https://github.com/akash-mehta47/Coding-Problems/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/akash-mehta47/Coding-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/akash-mehta47/Coding-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/akash-mehta47/Coding-Problems/tree/master/0645-set-mismatch) |
 | [0922-sort-array-by-parity-ii](https://github.com/akash-mehta47/Coding-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2974-minimum-number-game](https://github.com/akash-mehta47/Coding-Problems/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/akash-mehta47/Coding-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/akash-mehta47/Coding-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/akash-mehta47/Coding-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/2295-replace-elements-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/akash-mehta47/Coding-Problems/tree/master/2562-find-the-array-concatenation-value) |
+| [2974-minimum-number-game](https://github.com/akash-mehta47/Coding-Problems/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -249,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/akash-mehta47/Coding-Problems/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
