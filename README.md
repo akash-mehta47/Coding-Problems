@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2974-minimum-number-game](https://github.com/akash-mehta47/Coding-Problems/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3024-type-of-triangle](https://github.com/akash-mehta47/Coding-Problems/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/akash-mehta47/Coding-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/akash-mehta47/Coding-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/akash-mehta47/Coding-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/akash-mehta47/Coding-Problems/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/akash-mehta47/Coding-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/akash-mehta47/Coding-Problems/tree/master/3024-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2974-minimum-number-game](https://github.com/akash-mehta47/Coding-Problems/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3024-type-of-triangle](https://github.com/akash-mehta47/Coding-Problems/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/akash-mehta47/Coding-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/akash-mehta47/Coding-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Prefix Sum
