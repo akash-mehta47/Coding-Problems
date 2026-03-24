@@ -7,13 +7,13 @@ public:
                 countV++;
             }else if(c=='D'){
                 countV--;
-            }else if(c=='R'){
+            }
+            if(c=='R'){
                 countH++;
             }else if(c=='L'){
                 countH--;
             }
         }
-        if(countV==0 && countH==0) return true;
-        else return false;
+        return countV==0 && countH==0;
     }
 };
