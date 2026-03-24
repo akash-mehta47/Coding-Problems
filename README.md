@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/akash-mehta47/Coding-Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2942-find-words-containing-character](https://github.com/akash-mehta47/Coding-Problems/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/akash-mehta47/Coding-Problems/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/akash-mehta47/Coding-Problems/tree/master/3024-type-of-triangle) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2299-strong-password-checker-ii](https://github.com/akash-mehta47/Coding-Problems/tree/master/2299-strong-password-checker-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/akash-mehta47/Coding-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2942-find-words-containing-character](https://github.com/akash-mehta47/Coding-Problems/tree/master/2942-find-words-containing-character) |
 ## Stack
 |  |
 | ------- |
