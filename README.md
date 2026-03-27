@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/akash-mehta47/Coding-Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2942-find-words-containing-character](https://github.com/akash-mehta47/Coding-Problems/tree/master/2942-find-words-containing-character) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/akash-mehta47/Coding-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/akash-mehta47/Coding-Problems/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/akash-mehta47/Coding-Problems/tree/master/3024-type-of-triangle) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/akash-mehta47/Coding-Problems/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/akash-mehta47/Coding-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/akash-mehta47/Coding-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3024-type-of-triangle](https://github.com/akash-mehta47/Coding-Problems/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/akash-mehta47/Coding-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 ## String
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/akash-mehta47/Coding-Problems/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akash-mehta47/Coding-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/akash-mehta47/Coding-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/akash-mehta47/Coding-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Counting
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/akash-mehta47/Coding-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/2295-replace-elements-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/akash-mehta47/Coding-Problems/tree/master/2562-find-the-array-concatenation-value) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/akash-mehta47/Coding-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/akash-mehta47/Coding-Problems/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
