@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/akash-mehta47/Coding-Problems/tree/master/0657-robot-return-to-origin) |
 | [0944-delete-columns-to-make-sorted](https://github.com/akash-mehta47/Coding-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/akash-mehta47/Coding-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/akash-mehta47/Coding-Problems/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akash-mehta47/Coding-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/akash-mehta47/Coding-Problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
