@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/akash-mehta47/Coding-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/akash-mehta47/Coding-Problems/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2485-find-the-pivot-integer](https://github.com/akash-mehta47/Coding-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/akash-mehta47/Coding-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/1980-find-unique-binary-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2299-strong-password-checker-ii](https://github.com/akash-mehta47/Coding-Problems/tree/master/2299-strong-password-checker-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/akash-mehta47/Coding-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2942-find-words-containing-character](https://github.com/akash-mehta47/Coding-Problems/tree/master/2942-find-words-containing-character) |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akash-mehta47/Coding-Problems/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
