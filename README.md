@@ -321,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/2269-find-the-k-beauty-of-a-number) |
+## Database
+|  |
+| ------- |
+| [1084-sales-analysis-iii](https://github.com/akash-mehta47/Coding-Problems/tree/master/1084-sales-analysis-iii) |
 <!---LeetCode Topics End-->
