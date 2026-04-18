@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/akash-mehta47/Coding-Problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/akash-mehta47/Coding-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/akash-mehta47/Coding-Problems/tree/master/0724-find-pivot-index) |
+| [0804-unique-morse-code-words](https://github.com/akash-mehta47/Coding-Problems/tree/master/0804-unique-morse-code-words) |
 | [0867-transpose-matrix](https://github.com/akash-mehta47/Coding-Problems/tree/master/0867-transpose-matrix) |
 | [0922-sort-array-by-parity-ii](https://github.com/akash-mehta47/Coding-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/akash-mehta47/Coding-Problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/akash-mehta47/Coding-Problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/akash-mehta47/Coding-Problems/tree/master/0657-robot-return-to-origin) |
+| [0804-unique-morse-code-words](https://github.com/akash-mehta47/Coding-Problems/tree/master/0804-unique-morse-code-words) |
 | [0944-delete-columns-to-make-sorted](https://github.com/akash-mehta47/Coding-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/akash-mehta47/Coding-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/akash-mehta47/Coding-Problems/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akash-mehta47/Coding-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/akash-mehta47/Coding-Problems/tree/master/0645-set-mismatch) |
+| [0804-unique-morse-code-words](https://github.com/akash-mehta47/Coding-Problems/tree/master/0804-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/akash-mehta47/Coding-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
