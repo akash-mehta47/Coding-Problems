@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akash-mehta47/Coding-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/akash-mehta47/Coding-Problems/tree/master/2562-find-the-array-concatenation-value) |
+| [2574-left-and-right-sum-differences](https://github.com/akash-mehta47/Coding-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2942-find-words-containing-character](https://github.com/akash-mehta47/Coding-Problems/tree/master/2942-find-words-containing-character) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/akash-mehta47/Coding-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/akash-mehta47/Coding-Problems/tree/master/1732-find-the-highest-altitude) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/akash-mehta47/Coding-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/akash-mehta47/Coding-Problems/tree/master/2485-find-the-pivot-integer) |
+| [2574-left-and-right-sum-differences](https://github.com/akash-mehta47/Coding-Problems/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
 |  |
 | ------- |
