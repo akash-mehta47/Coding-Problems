@@ -1,26 +1,25 @@
 class Solution {
 public:
 
-    int longestLength(string& s, int left,int right){
-        while(left>=0 && right<s.length() && s[left]==s[right]){
+    void longestSubString(int left, int right, int& maxLength, int& start, string s){
+        while(left>=0 && right<s.size() && s[left]==s[right]){
+            int currentLength= right-left+1;
+            if(currentLength>maxLength){
+                start=left;
+                maxLength=currentLength;
+            }
             left--;
             right++;
         }
-        return right-left-1;
     }
 
     string longestPalindrome(string s) {
-        if(s.empty()) return "";
-        int start =0, maxLen = 0;
+        int size=1;
+        int start=0;
         for(int i=0;i<s.size();i++){
-            int len1 = longestLength(s,i,i);
-            int len2 = longestLength(s,i,i+1);
-            int len = max(len1,len2);
-            if(len>maxLen){
-                maxLen=len;
-                start = i-(len-1) /2 ;
-            }
+            longestSubString(i,i,size,start,s);
+            longestSubString(i,i+1,size,start,s);
         }
-        return s.substr(start,maxLen);
+        return s.substr(start,size);
     }
 };
