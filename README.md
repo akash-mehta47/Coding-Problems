@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/akash-mehta47/Coding-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1534-count-good-triplets](https://github.com/akash-mehta47/Coding-Problems/tree/main/1534-count-good-triplets/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/akash-mehta47/Coding-Problems/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/akash-mehta47/Coding-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/akash-mehta47/Coding-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1534-count-good-triplets](https://github.com/akash-mehta47/Coding-Problems/tree/main/1534-count-good-triplets/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Design
 | Problem Name | Difficulty |
