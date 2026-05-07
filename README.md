@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/akash-mehta47/Coding-Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/akash-mehta47/Coding-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/1980-find-unique-binary-string) |
+| [2000-reverse-prefix-of-word](https://github.com/akash-mehta47/Coding-Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2299-strong-password-checker-ii](https://github.com/akash-mehta47/Coding-Problems/tree/master/2299-strong-password-checker-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/akash-mehta47/Coding-Problems/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/akash-mehta47/Coding-Problems/tree/master/0682-baseball-game) |
+| [2000-reverse-prefix-of-word](https://github.com/akash-mehta47/Coding-Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/akash-mehta47/Coding-Problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/akash-mehta47/Coding-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/akash-mehta47/Coding-Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akash-mehta47/Coding-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2562-find-the-array-concatenation-value](https://github.com/akash-mehta47/Coding-Problems/tree/master/2562-find-the-array-concatenation-value) |
