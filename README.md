@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-strong-password-checker-ii](https://github.com/akash-mehta47/Coding-Problems/tree/master/2299-strong-password-checker-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/akash-mehta47/Coding-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/akash-mehta47/Coding-Problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/akash-mehta47/Coding-Problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2942-find-words-containing-character](https://github.com/akash-mehta47/Coding-Problems/tree/master/2942-find-words-containing-character) |
 ## Stack
 | Problem Name | Difficulty |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akash-mehta47/Coding-Problems/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/akash-mehta47/Coding-Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akash-mehta47/Coding-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2833-furthest-point-from-origin](https://github.com/akash-mehta47/Coding-Problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
