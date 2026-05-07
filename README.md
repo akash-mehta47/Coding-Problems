@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/akash-mehta47/Coding-Problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/akash-mehta47/Coding-Problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
