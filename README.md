@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/akash-mehta47/Coding-Problems/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/akash-mehta47/Coding-Problems/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/akash-mehta47/Coding-Problems/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/akash-mehta47/Coding-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/akash-mehta47/Coding-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/akash-mehta47/Coding-Problems/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/akash-mehta47/Coding-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akash-mehta47/Coding-Problems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
