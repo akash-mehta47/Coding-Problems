@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/akash-mehta47/Coding-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/akash-mehta47/Coding-Problems/tree/master/0031-next-permutation) |
@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/akash-mehta47/Coding-Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2574-left-and-right-sum-differences](https://github.com/akash-mehta47/Coding-Problems/tree/master/2574-left-and-right-sum-differences) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/akash-mehta47/Coding-Problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2942-find-words-containing-character](https://github.com/akash-mehta47/Coding-Problems/tree/master/2942-find-words-containing-character) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/akash-mehta47/Coding-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -81,8 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3637-trionic-array-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/3637-trionic-array-i) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/akash-mehta47/Coding-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/akash-mehta47/Coding-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/akash-mehta47/Coding-Problems/tree/master/0069-sqrtx) |
@@ -106,8 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/akash-mehta47/Coding-Problems/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/akash-mehta47/Coding-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akash-mehta47/Coding-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/akash-mehta47/Coding-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/akash-mehta47/Coding-Problems/tree/master/0020-valid-parentheses) |
@@ -132,15 +133,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2299-strong-password-checker-ii](https://github.com/akash-mehta47/Coding-Problems/tree/master/2299-strong-password-checker-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/akash-mehta47/Coding-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/akash-mehta47/Coding-Problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2942-find-words-containing-character](https://github.com/akash-mehta47/Coding-Problems/tree/master/2942-find-words-containing-character) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/akash-mehta47/Coding-Problems/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/akash-mehta47/Coding-Problems/tree/master/0682-baseball-game) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/akash-mehta47/Coding-Problems/tree/master/0035-search-insert-position) |
@@ -156,8 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akash-mehta47/Coding-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akash-mehta47/Coding-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akash-mehta47/Coding-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/akash-mehta47/Coding-Problems/tree/master/0031-next-permutation) |
@@ -174,15 +176,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/akash-mehta47/Coding-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2562-find-the-array-concatenation-value](https://github.com/akash-mehta47/Coding-Problems/tree/master/2562-find-the-array-concatenation-value) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/akash-mehta47/Coding-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akash-mehta47/Coding-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/akash-mehta47/Coding-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/akash-mehta47/Coding-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/akash-mehta47/Coding-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/akash-mehta47/Coding-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/akash-mehta47/Coding-Problems/tree/master/0229-majority-element-ii) |
@@ -200,8 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/akash-mehta47/Coding-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/akash-mehta47/Coding-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/akash-mehta47/Coding-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/akash-mehta47/Coding-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/akash-mehta47/Coding-Problems/tree/master/0724-find-pivot-index) |
@@ -212,8 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/akash-mehta47/Coding-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/akash-mehta47/Coding-Problems/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/akash-mehta47/Coding-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/akash-mehta47/Coding-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/akash-mehta47/Coding-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -222,8 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/akash-mehta47/Coding-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/akash-mehta47/Coding-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/akash-mehta47/Coding-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/akash-mehta47/Coding-Problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/akash-mehta47/Coding-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -232,8 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/akash-mehta47/Coding-Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akash-mehta47/Coding-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/akash-mehta47/Coding-Problems/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/akash-mehta47/Coding-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/akash-mehta47/Coding-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -254,10 +256,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/akash-mehta47/Coding-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/1980-find-unique-binary-string) |
 | [2295-replace-elements-in-an-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/2295-replace-elements-in-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/akash-mehta47/Coding-Problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/akash-mehta47/Coding-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0136-single-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/akash-mehta47/Coding-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/0268-missing-number) |
@@ -269,8 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/akash-mehta47/Coding-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/akash-mehta47/Coding-Problems/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/akash-mehta47/Coding-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/akash-mehta47/Coding-Problems/tree/master/0412-fizz-buzz) |
@@ -281,67 +284,68 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/akash-mehta47/Coding-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/2295-replace-elements-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/akash-mehta47/Coding-Problems/tree/master/2562-find-the-array-concatenation-value) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/akash-mehta47/Coding-Problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/akash-mehta47/Coding-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/akash-mehta47/Coding-Problems/tree/master/2974-minimum-number-game) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/akash-mehta47/Coding-Problems/tree/master/0258-add-digits) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/akash-mehta47/Coding-Problems/tree/master/0303-range-sum-query-immutable) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/akash-mehta47/Coding-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/akash-mehta47/Coding-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/akash-mehta47/Coding-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akash-mehta47/Coding-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/akash-mehta47/Coding-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akash-mehta47/Coding-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/akash-mehta47/Coding-Problems/tree/master/0128-longest-consecutive-sequence) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1980-find-unique-binary-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/1980-find-unique-binary-string) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akash-mehta47/Coding-Problems/tree/master/0347-top-k-frequent-elements) |
 | [2974-minimum-number-game](https://github.com/akash-mehta47/Coding-Problems/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akash-mehta47/Coding-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akash-mehta47/Coding-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1084-sales-analysis-iii](https://github.com/akash-mehta47/Coding-Problems/tree/master/1084-sales-analysis-iii) |
 <!---LeetCode Topics End-->
