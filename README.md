@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/akash-mehta47/Coding-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/akash-mehta47/Coding-Problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/akash-mehta47/Coding-Problems/tree/master/0657-robot-return-to-origin) |
 | [0804-unique-morse-code-words](https://github.com/akash-mehta47/Coding-Problems/tree/master/0804-unique-morse-code-words) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/akash-mehta47/Coding-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/akash-mehta47/Coding-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/akash-mehta47/Coding-Problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/akash-mehta47/Coding-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/akash-mehta47/Coding-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/akash-mehta47/Coding-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akash-mehta47/Coding-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/akash-mehta47/Coding-Problems/tree/main/0392-is-subsequence/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
