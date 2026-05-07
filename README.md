@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/akash-mehta47/Coding-Problems/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/akash-mehta47/Coding-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/akash-mehta47/Coding-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1720-decode-xored-array](https://github.com/akash-mehta47/Coding-Problems/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/akash-mehta47/Coding-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akash-mehta47/Coding-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/akash-mehta47/Coding-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/akash-mehta47/Coding-Problems/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/akash-mehta47/Coding-Problems/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/akash-mehta47/Coding-Problems/tree/main/1720-decode-xored-array/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/akash-mehta47/Coding-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Simulation
