@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/akash-mehta47/Coding-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/akash-mehta47/Coding-Problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/akash-mehta47/Coding-Problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Trie
@@ -408,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/akash-mehta47/Coding-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/akash-mehta47/Coding-Problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/akash-mehta47/Coding-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
