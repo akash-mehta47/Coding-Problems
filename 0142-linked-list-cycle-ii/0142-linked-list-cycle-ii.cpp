@@ -10,18 +10,21 @@ class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
         if(head==NULL || head->next==NULL) return NULL;
-        map<ListNode*,int> hash;
-        ListNode* temp=head;
-        while(temp!=NULL){
-            if(hash.find(temp)==hash.end()){
-                hash[temp]=1;
-            }else{
-                return temp;
+        ListNode* slow=head;
+        ListNode* fast=head;
+        while(fast != NULL && fast->next != NULL){
+            slow=slow->next;
+            fast=fast->next->next;
+            if(slow==fast){
+                slow=head;
+                while(slow!=fast){
+                    slow=slow->next;
+                    fast=fast->next;
+                }
+                return slow;
             }
-            temp=temp->next;
         }
+        
         return NULL;
-
-
     }
 };
