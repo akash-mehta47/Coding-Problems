@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/akash-mehta47/Coding-Problems/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/akash-mehta47/Coding-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/akash-mehta47/Coding-Problems/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/akash-mehta47/Coding-Problems/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/akash-mehta47/Coding-Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akash-mehta47/Coding-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/akash-mehta47/Coding-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/akash-mehta47/Coding-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akash-mehta47/Coding-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/akash-mehta47/Coding-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/akash-mehta47/Coding-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/akash-mehta47/Coding-Problems/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/akash-mehta47/Coding-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/akash-mehta47/Coding-Problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/akash-mehta47/Coding-Problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Trie
@@ -419,4 +422,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/akash-mehta47/Coding-Problems/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/akash-mehta47/Coding-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
