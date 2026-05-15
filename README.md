@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/akash-mehta47/Coding-Problems/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/akash-mehta47/Coding-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/akash-mehta47/Coding-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3101-count-alternating-subarrays](https://github.com/akash-mehta47/Coding-Problems/tree/main/3101-count-alternating-subarrays/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/akash-mehta47/Coding-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/akash-mehta47/Coding-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/akash-mehta47/Coding-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/akash-mehta47/Coding-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3024-type-of-triangle](https://github.com/akash-mehta47/Coding-Problems/tree/master/3024-type-of-triangle) |
+| [3101-count-alternating-subarrays](https://github.com/akash-mehta47/Coding-Problems/tree/main/3101-count-alternating-subarrays/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/akash-mehta47/Coding-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 ## String
 | Problem Name | Difficulty |
