@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-strong-password-checker-ii](https://github.com/akash-mehta47/Coding-Problems/tree/master/2299-strong-password-checker-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/akash-mehta47/Coding-Problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2483-minimum-penalty-for-a-shop](https://github.com/akash-mehta47/Coding-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/akash-mehta47/Coding-Problems/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/akash-mehta47/Coding-Problems/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/akash-mehta47/Coding-Problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/akash-mehta47/Coding-Problems/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/akash-mehta47/Coding-Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akash-mehta47/Coding-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/akash-mehta47/Coding-Problems/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2562-find-the-array-concatenation-value](https://github.com/akash-mehta47/Coding-Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/akash-mehta47/Coding-Problems/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 ## Greedy
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/akash-mehta47/Coding-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akash-mehta47/Coding-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/akash-mehta47/Coding-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/akash-mehta47/Coding-Problems/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/akash-mehta47/Coding-Problems/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/akash-mehta47/Coding-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/akash-mehta47/Coding-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
