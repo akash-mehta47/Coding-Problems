@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/akash-mehta47/Coding-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/akash-mehta47/Coding-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/akash-mehta47/Coding-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/akash-mehta47/Coding-Problems/tree/master/0069-sqrtx) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/akash-mehta47/Coding-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akash-mehta47/Coding-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/akash-mehta47/Coding-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/akash-mehta47/Coding-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/akash-mehta47/Coding-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/akash-mehta47/Coding-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/akash-mehta47/Coding-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Merge Sort
