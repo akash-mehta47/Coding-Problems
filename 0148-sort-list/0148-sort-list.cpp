@@ -20,7 +20,7 @@ public:
         return slow;
     }
 
-    ListNode* mergeTwoList(ListNode* list1, ListNode* list2){
+    ListNode* mergeLL(ListNode* list1, ListNode* list2){
         ListNode* dummyNode = new ListNode(-1);
         ListNode* temp = dummyNode;
 
@@ -38,21 +38,23 @@ public:
 
         if(list1) temp->next = list1;
         else temp->next = list2;
-
+        
         return dummyNode->next;
+        
     }
 
     ListNode* sortList(ListNode* head) {
         if(head == NULL || head->next == NULL) return head;
 
         ListNode* middle = findMiddle(head);
-        ListNode* right = middle->next;
-        middle->next = nullptr;
         ListNode* left = head;
+        ListNode* right = middle->next;
+        middle->next = nullptr; // to seperate list
 
         left = sortList(left);
         right = sortList(right);
 
-        return mergeTwoList(left, right);
+        return mergeLL(left, right);
+
     }
 };
