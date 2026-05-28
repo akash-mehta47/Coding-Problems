@@ -8,22 +8,39 @@
  */
 class Solution {
 public:
+
+    ListNode *findIntersection(ListNode *list1, ListNode *list2, int diff){
+        while(diff > 0){
+            diff--;
+            list2 = list2->next;
+        }
+
+        while(list1 != list2){
+            list1=list1->next;
+            list2=list2->next;
+        }
+
+        return list1;
+    }
+
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        unordered_map<ListNode* ,int> hash;
+        if(headA == NULL || headB == NULL) return NULL;
+
         ListNode* temp1 = headA;
         ListNode* temp2 = headB;
+
+        int count1 = 0, count2 = 0;
+        
         while(temp1 != NULL){
-            hash[temp1]++;
+            count1++;
             temp1=temp1->next;
         }
         while(temp2 != NULL){
-            if(hash[temp2] != 1){
-                hash[temp2]++;
-            }else{
-                return temp2;
-            }
+            count2++;
             temp2=temp2->next;
         }
-        return NULL;
+
+        if(count1 < count2) return findIntersection(headA, headB, count2-count1);
+        else return findIntersection(headB, headA, count1-count2);
     }
 };
