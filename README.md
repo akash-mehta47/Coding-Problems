@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/akash-mehta47/Coding-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/akash-mehta47/Coding-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/akash-mehta47/Coding-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/akash-mehta47/Coding-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/akash-mehta47/Coding-Problems/tree/master/0412-fizz-buzz) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/akash-mehta47/Coding-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/akash-mehta47/Coding-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/akash-mehta47/Coding-Problems/tree/master/0476-number-complement) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/akash-mehta47/Coding-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/akash-mehta47/Coding-Problems/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/akash-mehta47/Coding-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/akash-mehta47/Coding-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
