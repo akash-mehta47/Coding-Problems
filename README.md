@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/akash-mehta47/Coding-Problems/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/akash-mehta47/Coding-Problems/tree/master/0728-self-dividing-numbers) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/akash-mehta47/Coding-Problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1362-closest-divisors](https://github.com/akash-mehta47/Coding-Problems/tree/master/1362-closest-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/akash-mehta47/Coding-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
