@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/akash-mehta47/Coding-Problems/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/akash-mehta47/Coding-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akash-mehta47/Coding-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/akash-mehta47/Coding-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/akash-mehta47/Coding-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/akash-mehta47/Coding-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/akash-mehta47/Coding-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/akash-mehta47/Coding-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akash-mehta47/Coding-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/akash-mehta47/Coding-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/akash-mehta47/Coding-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/akash-mehta47/Coding-Problems/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/akash-mehta47/Coding-Problems/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/akash-mehta47/Coding-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/akash-mehta47/Coding-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1833-maximum-ice-cream-bars](https://github.com/akash-mehta47/Coding-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/akash-mehta47/Coding-Problems/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2974-minimum-number-game](https://github.com/akash-mehta47/Coding-Problems/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/akash-mehta47/Coding-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akash-mehta47/Coding-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/akash-mehta47/Coding-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
