@@ -2,21 +2,20 @@ class Solution {
 public:
     int beautySum(string s) {
         int ans=0;
-        int n=s.length();
-        for(int i=0;i<s.size();i++){
+        int n=s.size();
+        for(int i=0;i<n;i++){
             vector<int> freq(26,0);
-            for(int j=i;j<s.size();j++){
+            for(int j=i;j<n;j++){
                 freq[s[j]-'a']++;
-                int maxx=0;
-                int minn=s.size();
-
-                for(int fr:freq){
-                    if(fr>0){
-                        maxx=max(maxx,fr);
-                        minn=min(minn,fr);
+                int minn=INT_MAX;
+                int maxx=INT_MIN;
+                for(int val :freq){
+                    if(val>0){
+                        minn=min(minn,val);
+                        maxx=max(maxx,val);
                     }
                 }
-                ans+=maxx-minn;
+                ans+=abs(minn-maxx);
             }
         }
         return ans;
