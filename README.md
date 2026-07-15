@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3101-count-alternating-subarrays](https://github.com/akash-mehta47/Coding-Problems/tree/main/3101-count-alternating-subarrays/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/akash-mehta47/Coding-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/akash-mehta47/Coding-Problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/akash-mehta47/Coding-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/akash-mehta47/Coding-Problems/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/akash-mehta47/Coding-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
